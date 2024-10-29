@@ -41,7 +41,7 @@ The script will check if a new version of Zoom is available. If an update is fou
 
 ## License
 
-This script is open-source and free to use. No license required.
+This script is licensed under the [MIT License](LICENSE).
 
 --- 
 
